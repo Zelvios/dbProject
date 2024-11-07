@@ -19,5 +19,9 @@
     "svelte-add": "^2.7.3",
     "tailwindcss": "^3.4.14",
     "vite": "^5.4.10"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "svelte-routing": "^2.13.0"
   }
 }
