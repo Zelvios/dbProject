@@ -15,3 +15,6 @@ packages/
 # Ignore IDE files
 .vscode/
 .idea/
+
+# Ignore connection string
+appsettings.json
