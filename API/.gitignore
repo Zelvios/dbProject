@@ -12,9 +12,9 @@ obj/
 *.nupkg
 packages/
 
-# Ignore the database file if using SQLite
-localdatabase.db
-
 # Ignore IDE files
 .vscode/
 .idea/
+
+# Ignore Program.cs because of connectionString
+Program.cs
