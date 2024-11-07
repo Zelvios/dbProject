@@ -15,6 +15,3 @@ packages/
 # Ignore IDE files
 .vscode/
 .idea/
-
-# Ignore Program.cs because of connectionString
-Program.cs
